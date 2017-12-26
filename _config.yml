@@ -1,18 +1,19 @@
-# Hexo Configuration
+
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: 冰哥的空间
+subtitle: 互联网技术与管理交流分享(还可关注我的公众号：冰哥的分享，微信ID：bingo9876543210)         https://github.com/tubing1220
+description: 互联网技术与管理交流分享(还可关注我的公众号：冰哥的分享，微信ID：bingo9876543210)
+author: Tu Bing
+email: 48734274@qq.com
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://tubing.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-modernist-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
